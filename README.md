@@ -43,9 +43,6 @@
 ###
 
 <br clear="both">
-
-[<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fhello-world-animation-hello-coding-gif-1378121840400141809&psig=AOvVaw3s0AueV8eWXJmWZeuRcuYr&ust=1758090060474000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNjMpv_R3I8DFQAAAAAdAAAAABAE)
 ###
 ###
 
